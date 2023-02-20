@@ -4,9 +4,26 @@
 
 This repository contains the official `PyTorch` implementation of the paper:
 
-**Modularized Pre-training for End-to-end Task-oriented Dialogue.**
+[**Modularized Pre-training for End-to-end Task-oriented Dialogue.**](https://ieeexplore.ieee.org/abstract/document/10043710)
 
 Libo Qin, Xiao Xu, Lehan Wang, Yue Zhang, Wanxiang Che.
+
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
+
+If you use any source codes or the datasets included in this toolkit in your work, please cite the following paper. The bibtex are listed below:
+
+```
+@ARTICLE{qin-etal-2023-modularized,
+  author={Qin, Libo and Xu, Xiao and Wang, Lehan and Zhang, Yue and Che, Wanxiang},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Modularized Pre-training for End-to-end Task-oriented Dialogue}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/TASLP.2023.3244503}
+}
+```
 
 ## Architecture
 
