@@ -59,7 +59,7 @@ All the data used in pre-training and fine-tuning are publicly available. Below 
 - [CameRest676](https://github.com/yizhen20133868/Retriever-Dialogue)
 - [MWOZ](https://github.com/budzianowski/multiwoz/)
 
-You can download all data from [here](https://drive.google.com/file/d/1akQy8X6GZ8hDGJsv1MpjGtegPFgfoO63/view?usp=sharing) and unzip them into the `data/` folder, which should have the following structure:
+You can download all data from [here](https://pan.baidu.com/s/1iimQ5GFKn6Wil5hogPQ5Wg?pwd=gi4k) and unzip them into the `data/` folder, which should have the following structure:
 
 ```
 data
@@ -73,7 +73,7 @@ We also provide the pre-process scripts in `prepare_data/`:
 - `augmentation_xxx.py`: convert the data in `data/fine-tune/` folder into the format of Knowledge-retriever Module Pre-training (`data/pre-train/` provides the processed data)
 
 ### Checkpoints
-You can download all checkpoints from [here](https://drive.google.com/file/d/1Ni8uWTnHqtIP8P_JvPv0z7qXnPGZjaIe/view?usp=sharing) and unzip them into the `save/` folder, which should have the following structure:
+You can download all saved checkpoints from [pre-train](https://pan.baidu.com/s/1edEzo3mWCoriWzWl_rOwuQ?pwd=7mnh) and [fine-tune](https://pan.baidu.com/s/1mVYk9EuHUZS6VErYX8u6_A?pwd=km2t) . Then, please unzip them into the `save/` folder, which should have the following structure:
 
 ```
 save
@@ -90,7 +90,7 @@ save
 ### Pre-trained Models
 
 In this paper, we use [GPT-2](https://huggingface.co/gpt2) or [DialoGPT-Medium](https://huggingface.co/microsoft/DialoGPT-medium) to initialize our generation module. 
-If you want to re-pre-train generation module, please download them from [here](https://drive.google.com/file/d/1hioI5sqngXpSLFMh1vlfhCbYxz1VmC_T/view?usp=sharing) and unzip them into the `pre-train/` folder, which should have the following structure:
+If you want to re-pre-train generation module, please download them from [here](https://pan.baidu.com/s/11868edKhIM1l_AMpMZzTCA?pwd=97jh) and unzip them into the `pre-train/` folder, which should have the following structure:
 
 ```
 pre-train
